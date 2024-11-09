@@ -1,3 +1,5 @@
+## Team Contacts
+To see the team contract for this project, click [here](https://docs.google.com/document/d/1P-EUtJDOpm3DrSK2WEZ7VvwGKifwNqZ6sU6OpzdtIxc/edit?usp=sharing).
 ## Project Goals
 The existing Hawaii Open Data portal is challenging for the average citizen to navigate. Citizens often encounter difficulties due to
 inconsisten dataset tagging, lack of data visualizations, and limited accessibility for those without technical skills. Aloha Archives will provide 
