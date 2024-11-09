@@ -59,5 +59,5 @@ Some mockup pages include:
 - **Footer**
     - Legal links (terms of use, privacy policy, about us, contact us, etc.)
 
-<img src="pics/homes.png">
+<img src="pics/home.png">
 <img src="pics/search.png">
