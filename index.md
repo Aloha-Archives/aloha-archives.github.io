@@ -1,4 +1,3 @@
-# Aloha Archives
 
 # Table of Contents
 - [Project Goals](#project-goals)
