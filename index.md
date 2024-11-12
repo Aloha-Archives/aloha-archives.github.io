@@ -1,5 +1,16 @@
-## Team Contacts
+# Table of Contents
+- [Project Goals](#project-goals)
+- [Milestone 1](#milestone-1)
+
+## Team Contract
 To see the team contract for this project, click [here](https://docs.google.com/document/d/1P-EUtJDOpm3DrSK2WEZ7VvwGKifwNqZ6sU6OpzdtIxc/edit?usp=sharing).
+
+## Github Orginization
+To see the Github Orginization associated with this project, go to [https://github.com/Aloha-Archives](https://github.com/Aloha-Archives)
+
+## Deployment
+Our project is currently being deployed at, [https://aloha-archives.vercel.app/](https://aloha-archives.vercel.app/)
+
 ## Project Goals
 The existing Hawaii Open Data portal is challenging for the average citizen to navigate. Citizens often encounter difficulties due to
 inconsisten dataset tagging, lack of data visualizations, and limited accessibility for those without technical skills. Aloha Archives will provide 
@@ -61,3 +72,23 @@ Some mockup pages include:
 
 <img src="pics/home.png">
 <img src="pics/search.png">
+
+# Milestone 1
+Milestone 1 aimed to establish a basic outline of our website’s design. Our primary focus was on creating the visual structure and layout to resemble a functional website, without yet implementing full functionality. By setting up the foundational framework, we can efficiently add and refine features in future milestones.
+
+Milestone 1 was managed using [Aloha Archives GitHub Project Board M1](https://github.com/orgs/Aloha-Archives/projects/1/views/1):
+
+<img src="pics/m1-page.png">
+
+Some of the pages we will have on Aloha Archives consists of:
+Data Explore Page
+<img src="pics/data-explore.jpg">
+
+Persona Quiz and Recommendation Pages
+<img src="pics/persona-reccomend.jpg">
+
+Data Display Page
+<img src="pics/data-display.jpg">
+
+# Milestone 2
+Milestone 2 was managed using [Aloha Archives GitHub Project Board M2](https://github.com/orgs/Aloha-Archives/projects/3):
