@@ -9,15 +9,15 @@ title: "Aloha Archives"
 ## Team Contract
 To see the team contract for this project, click [here](https://docs.google.com/document/d/1P-EUtJDOpm3DrSK2WEZ7VvwGKifwNqZ6sU6OpzdtIxc/edit?usp=sharing).
 
-## Github Orginization
-To see the Github Orginization associated with this project, go to [https://github.com/Aloha-Archives](https://github.com/Aloha-Archives)
+## Github Organization
+To see the GitHub Organization associated with this project, go to [https://github.com/Aloha-Archives](https://github.com/Aloha-Archives)
 
 ## Deployment
 Our project is currently being deployed at, [https://aloha-archives.vercel.app/](https://aloha-archives.vercel.app/)
 
 ## Project Goals
 The existing Hawaii Open Data portal is challenging for the average citizen to navigate. Citizens often encounter difficulties due to
-inconsisten dataset tagging, lack of data visualizations, and limited accessibility for those without technical skills. Aloha Archives will provide 
+inconsistent dataset tagging, lack of data visualizations, and limited accessibility for those without technical skills. Aloha Archives will provide 
 an intuitive and visually appealing portal that personalizes data access for citizens based on their needs. This portal will feature:
 
 - **Citizen Personas**: Customized experiences for different user profiles (e.g., students, researchers, residents) with relevant data and visualizations.
