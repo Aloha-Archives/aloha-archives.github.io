@@ -3,8 +3,12 @@ title: "Aloha Archives"
 ---
 
 # Table of Contents
-- [Project Goals](#project-goals)
-- [Milestone 1](#milestone-1)
+- [Overview](#overview)
+- [User Guide](#user-guide)
+- [Community Feedback](#community-feedback)
+- [Developer Guide](#developer-guide)
+- [Development history](#development-history)
+- [Contact Us](#contact-us)
 
 ## Team Contract
 To see the team contract for this project, click [here](https://docs.google.com/document/d/1P-EUtJDOpm3DrSK2WEZ7VvwGKifwNqZ6sU6OpzdtIxc/edit?usp=sharing).
@@ -15,69 +19,64 @@ To see the GitHub Organization associated with this project, go to [https://gith
 ## Deployment
 Our project is currently being deployed at, [https://aloha-archives.vercel.app/](https://aloha-archives.vercel.app/)
 
-## Project Goals
-The existing Hawaii Open Data portal is challenging for the average citizen to navigate. Citizens often encounter difficulties due to
-inconsistent dataset tagging, lack of data visualizations, and limited accessibility for those without technical skills. Aloha Archives will provide 
-an intuitive and visually appealing portal that personalizes data access for citizens based on their needs. This portal will feature:
+# Overview
+Aloha Archives is an innovative data portal designed to simplify access to open data in Hawai’i, making it user-friendly, personalized, and visually appealing for citizens of varying technical expertise. Unlike traditional open data platforms, Aloha Archives focuses on tailoring the experience to meet the unique needs of its users through persona-based customization, intuitive navigation, and accessibility for all. It bridges the gap between raw datasets and meaningful insights by providing relevant visualizations, advanced search capabilities, and a seamless user interface.
+While other data portals focus primarily on displaying datasets, Aloha Archives transforms the experience into a personalized journey. By prioritizing user personas, providing relevant data visualizations, and ensuring a clean, interactive interface, it democratizes access to data for all Hawai’i citizens, empowering them to make informed decisions, advocate for their communities, and foster innovation.
 
-- **Citizen Personas**: Customized experiences for different user profiles (e.g., students, researchers, residents) with relevant data and visualizations.
-- **Enhanced Navigation**: Simplified and clear layout with accessible search filters for datasets by category, organization, or tags.
-- **Data Visualization Links**: Links to existing visualizations.
+# User Guide
+This section provides a walkthrough of the Aloha Archives user interface and its capabilities.
 
-This application will serve as a unified platform for organizing, uploading, and exploring datasets relevant to various user personas in Hawai’i, such as education, community, and professional users.
+## For Regular Users
+### Landing Page
+The landing page is presented to users when they visit the top-level URL to the site.
+<img src="pics/login.png">
 
-## Goals for the System to Provide
-There are three main roles we want the system to be able to provide:
-- **Users**: Can log in, set up profiles, and personalize their experience based on an optional quiz to help determine a user “persona.”
-- **Admins**: Have additional capabilities to manage and edit datasets, oversee organization information, and handle system-wide operations.
-- **Guests**: May browse datasets without options to save their favorites.
+### Explore Page
+After clicking on the **Datasets** tab in the nav bar, users are taken to the explore page where they can view all available datasets. This explore page is accompanied by a filter bar to the left of the screen.
+<img src="datasets.png>
 
-We hope the app will offer a clean and interactive interface, including:
-- **Comprehensive search page**: With filtering options.
-- **Individual dataset pages**: Showcasing details like topic, view count, and organization information.
-- **User profile**: Reflecting preferences or personas for tailored dataset recommendations.
-- **Admin home page**: With tools for uploading, editing, and managing datasets.
-- **Legal information**: Such as terms of use, privacy policy, and contact details accessible in the footer for transparency and compliance.
+### Inspect a Dataset
+After finding a dataset of interest, you can click on it to expand information related to it. Along with general information related to the dataset, there is also a data visualization tool you can use prior to downloading the data.
+<img src="ds-1.png">
+<img src="ds-2.png">
 
-The following are examples of possible case ideas we hope the system to cover:
-- **Regular User**:
-    - **First visit**: Go to the landing page, register, take quiz, get personalized data recommendation, visit dataset page, add favorites, go to favorites, compare data in favorites list, and enjoy personalized data insights.
-    - **Return visit**: Same steps as the first time, but without registering.
-- **Admin**: Go to the landing page, log in, visit upload page, upload dataset, go to edit dataset page, edit or remove datasets, and experience a sense of accomplishment.
+### Sign In
+To get access to more features, you can sign in or create an account if necessary.
+<img src="signin.png>
 
-## Mockup Pages
-Some mockup pages include:
-- **Landing Page**
-    - Header with Login
-    - Search bar
-    - Trending section
-    - Footer
-- **User Home Page**
-    - Profile Page
-    - Optional quiz for personalized experience
-        - Helps determine “persona” (e.g., Education, Community, Professional)
-    - Saved datasets with options to add or remove
-- **Admin Home Page**
-    - Separate header
-    - Options to upload and edit datasets
-    - Profile Page with Organization Icon, Description, etc.
-- **Upload Page** (for datasets)
-- **Edit Dataset Page**
-- **Search Page**
-    - Search bar
-    - Search results
-    - Filter component on the left
-- **Dataset Page**
-    - Title, Topic, View count
-    - Dataset preview in table format
-    - Organization Logo and data description
-- **Footer**
-    - Legal links (terms of use, privacy policy, about us, contact us, etc.)
+### Favorites
+After signing in, you are able to add datasets to your favorites and access them via a **Favorites** tab on the navigation bar.
+<img src="fav-2.png">
+<img src="fav-1.png">
 
-<img src="pics/home.png">
-<img src="pics/search.png">
+### Recommended
+You can also access recommended datasets by taking a **Persona Quiz** and being recommended different datasets based off of your persona.
 
-# Milestone 1
+<img src="persona-quiz.png">
+<img src="recs.png">
+
+## For Admin Users
+### Manage Datasets
+When you log in as an admin user, while having access to all the features a regular user has, admin users also get access to as special **Manage Datasets** tab, which allows the user to upload, delete, and edit the datasets related to the users account.
+
+<img src="manage.png">
+<img src="edit.png">
+
+# Community Feedback
+We are interested in your experience using Aloha Archives! If you have any suggestions on how we can improve the application, feel free to email us at shaelynl@hawaii.edu.
+
+# Developer Guide
+Developers who are interested in running our project locally must have Next.js and PostgreSQL installed. Our tech stack also uses ESLint, Typescript, Bootstrap 5, and React, with deployment via Vercel.
+
+1. Clone the repository to your local computer.
+2. Change into the root directory for the project (aloha-archives) using `cd` command. Then install the necessary third party libraries using `npm install`.
+3. Configure PostgreSQL Database by installing PostgreSQL on your local machine.
+Then set up your .env.local file in the root of the project with the PostgreSQL connection string: `DATABASE_URL=postgresql://user:password@localhost:5432/dbname` and run database migrations with `npx prisma migrate reset`
+4. Run the Project Locally with `npm run dev`
+5. Open http://localhost:3000 to view the running local application.
+
+# Development History
+## Milestone 1
 Milestone 1 aimed to establish a basic outline of our website’s design. Our primary focus was on creating the visual structure and layout to resemble a functional website, without yet implementing full functionality. By setting up the foundational framework, we can efficiently add and refine features in future milestones.
 
 Milestone 1 was managed using [Aloha Archives GitHub Project Board M1](https://github.com/orgs/Aloha-Archives/projects/1/views/1):
@@ -94,5 +93,8 @@ Persona Quiz and Recommendation Pages
 Data Display Page
 <img src="pics/data-display.jpg">
 
-# Milestone 2
+## Milestone 2
 Milestone 2 was managed using [Aloha Archives GitHub Project Board M2](https://github.com/orgs/Aloha-Archives/projects/3):
+
+# Contact Us
+Aloha Archives is designed, maintained, and implemented by [JR Lee](https://jswlee.github.io/), [Jared Seto](https://jseto808.github.io/), [Shaelyn Loo](https://shaelyn-l.github.io/), [Kevin Clarkin](https://kevin-clarkin29.github.io/), and [Harry Mills](https://thingy18.github.io/harrymills.github.io/)
