@@ -33,34 +33,34 @@ The landing page is presented to users when they visit the top-level URL to the 
 
 ### Explore Page
 After clicking on the **Datasets** tab in the nav bar, users are taken to the explore page where they can view all available datasets. This explore page is accompanied by a filter bar to the left of the screen.
-<img src="datasets.png>
+<img src="pics/datasets.png">
 
 ### Inspect a Dataset
 After finding a dataset of interest, you can click on it to expand information related to it. Along with general information related to the dataset, there is also a data visualization tool you can use prior to downloading the data.
-<img src="ds-1.png">
-<img src="ds-2.png">
+<img src="pics/ds-1.png">
+<img src="pics/ds-2.png">
 
 ### Sign In
 To get access to more features, you can sign in or create an account if necessary.
-<img src="signin.png>
+<img src="pics/signin.png>
 
 ### Favorites
 After signing in, you are able to add datasets to your favorites and access them via a **Favorites** tab on the navigation bar.
-<img src="fav-2.png">
-<img src="fav-1.png">
+<img src="pics/fav-2.png">
+<img src="pics/fav-1.png">
 
 ### Recommended
 You can also access recommended datasets by taking a **Persona Quiz** and being recommended different datasets based off of your persona.
 
-<img src="persona-quiz.png">
-<img src="recs.png">
+<img src="pics/persona-quiz.png">
+<img src="pics/recs.png">
 
 ## For Admin Users
 ### Manage Datasets
 When you log in as an admin user, while having access to all the features a regular user has, admin users also get access to as special **Manage Datasets** tab, which allows the user to upload, delete, and edit the datasets related to the users account.
 
-<img src="manage.png">
-<img src="edit.png">
+<img src="pics/manage.png">
+<img src="pics/edit.png">
 
 # Community Feedback
 We are interested in your experience using Aloha Archives! If you have any suggestions on how we can improve the application, feel free to email us at shaelynl@hawaii.edu.
