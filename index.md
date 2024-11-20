@@ -17,7 +17,7 @@ To see the team contract for this project, click [here](https://docs.google.com/
 To see the GitHub Organization associated with this project, go to [https://github.com/Aloha-Archives](https://github.com/Aloha-Archives)
 
 ## Deployment
-Our project is currently being deployed at, [https://aloha-archives.vercel.app/](https://aloha-archives.vercel.app/)
+Our project is currently being deployed at, [https://aloha-archives-eta.vercel.app/](https://aloha-archives-eta.vercel.app/)
 
 # Overview
 Aloha Archives is an innovative data portal designed to simplify access to open data in Hawai’i, making it user-friendly, personalized, and visually appealing for citizens of varying technical expertise. Unlike traditional open data platforms, Aloha Archives focuses on tailoring the experience to meet the unique needs of its users through persona-based customization, intuitive navigation, and accessibility for all. It bridges the gap between raw datasets and meaningful insights by providing relevant visualizations, advanced search capabilities, and a seamless user interface.
