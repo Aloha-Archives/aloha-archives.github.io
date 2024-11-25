@@ -42,7 +42,7 @@ After finding a dataset of interest, you can click on it to expand information r
 
 ### Sign In
 To get access to more features, you can sign in or create an account if necessary.
-<img src="pics/signin.png>
+<img src="pics/signin.png">
 
 ### Favorites
 After signing in, you are able to add datasets to your favorites and access them via a **Favorites** tab on the navigation bar.
@@ -63,7 +63,7 @@ When you log in as an admin user, while having access to all the features a regu
 <img src="pics/edit.png">
 
 # Community Feedback
-We are interested in your experience using Aloha Archives! If you have any suggestions on how we can improve the application, feel free to email us at shaelynl@hawaii.edu.
+We are interested in your experience using Aloha Archives! If you have any suggestions on how we can improve the application, feel free to fill out our feedback form [https://forms.gle/yJkAZ5UfKk6JsWMv6](https://forms.gle/yJkAZ5UfKk6JsWMv6).
 
 # Developer Guide
 Developers who are interested in running our project locally must have Next.js and PostgreSQL installed. Our tech stack also uses ESLint, Typescript, Bootstrap 5, and React, with deployment via Vercel.
@@ -83,18 +83,18 @@ Milestone 1 was managed using [Aloha Archives GitHub Project Board M1](https://g
 
 <img src="pics/m1-page.png">
 
-Some of the pages we will have on Aloha Archives consists of:
-Data Explore Page
-<img src="pics/data-explore.jpg">
-
-Persona Quiz and Recommendation Pages
-<img src="pics/persona-reccomend.jpg">
-
-Data Display Page
-<img src="pics/data-display.jpg">
-
 ## Milestone 2
+Milestone 2 aimed to implement more functionality in the website now that the basic outlines have been completed in M1.
+This milestone included uploading mock datasets to the PostgreSQL database that can then be read and populated on the website,
+making a 'Persona Quiz' option that allows users to take a quiz and get recommended datasets based on their assigned persona,
+as well as adding functionality to the dataset search page. This milestone also covered styling improvments, such as adding color schemes,
+images, and animation to the different pages. For more detail on what was completed in this milestone, refer to the section below.
+
 Milestone 2 was managed using [Aloha Archives GitHub Project Board M2](https://github.com/orgs/Aloha-Archives/projects/3):
+<img src="pics/m2.png">
+
+## Milestone 3
+Milestone 3 was managed using [Aloha Archives GitHub Project Board M3](https://github.com/orgs/Aloha-Archives/projects/4):
 
 # Contact Us
 Aloha Archives is designed, maintained, and implemented by [JR Lee](https://jswlee.github.io/), [Jared Seto](https://jseto808.github.io/), [Shaelyn Loo](https://shaelyn-l.github.io/), [Kevin Clarkin](https://kevin-clarkin29.github.io/), and [Harry Mills](https://thingy18.github.io/harrymills.github.io/)
