@@ -2,7 +2,7 @@
 title: "Aloha Archives"
 ---
 
-![ci-badge](https://github.com/ics-software-engineering/meteor-application-template-react/workflows/ci-meteor-application-template-react/badge.svg)
+![ci-badge](https://github.com/Aloha-Archives/aloha-archives/workflows/aloha-archives/badge.svg)
 
 # Table of Contents
 - [Overview](#overview)
