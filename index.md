@@ -67,6 +67,29 @@ When you log in as an admin user, while having access to all the features a regu
 # Community Feedback
 We are interested in your experience using Aloha Archives! If you have any suggestions on how we can improve the application, feel free to fill out our feedback form [https://forms.gle/yJkAZ5UfKk6JsWMv6](https://forms.gle/yJkAZ5UfKk6JsWMv6).
 
+Here are some suggestions we've gotten so far from community members who have used Aloha Archives!
+### Person 1
+- Overall, site is attractive and engaging and you immediately know it is about Hawaiʻi and data gathering. Nice work!
+- On the homepage, might be good to include a very brief welcome/description about the site, its purpose and key features.
+-  When signing up, put down instructions that the password needs to be at least 6 characters.
+- In the Persona Quiz section, either put all periods or no periods in the “Select an Option” choices. Right now some sentences have and some donʻt.
+- For the “How comfortable are you with data analysis tools?” question, consider rephrasing to “How familiar are you with data analysis tools?” and your options to be something more like…
+    - Very familiar - I work with data regularly.
+    - Familiar - I have basic data skills. 
+    - Somewhat Familiar - I have limited data skills.
+    - Not Familiar - I have no experience.
+### Person 2
+- It would be nice if there was a way to return to “all topics” from the Filters. Maybe a “Remove filters”. Or do you just have to click on “Datasets” again to pull up all topics? 
+-  On “About Us’ page, “Only after countless hours (and some head banging one the table)”
+### Person 3
+-  I agree that a very brief description of what Aloha Archives is on the homepage might be helpful, something like “Aloha Archives provides access to State of Hawaii data to enhance open government, transparency, and accountability.” (I got this from your Terms of Use page. 🙂) 
+-  I did sign up, and it was easy to follow. I like the Recommended and Favorite drop down menus. I was going to say I wasn’t sure how to populate the Favorite section but saw the “Add to favorites” when I went back to view the datasets.
+- Nice job on the Filters. They were very helpful.
+- For the Persona Quiz, would it be too much to have a “select all options that apply”?
+- This is a small thing, and there could be a very good reason why it isn’t done yet: spelling place names in ʻolelo Hawaiʻi (so Hawaiʻi instead of Hawaii). It could be a state style thing not to do it and use the English spelling, but you might think about using ʻolelo Hawaiʻi spelling and starting a new trend.
+
+
+
 # Developer Guide
 Developers who are interested in running our project locally must have Next.js and PostgreSQL installed. Our tech stack also uses ESLint, Typescript, Bootstrap 5, and React, with deployment via Vercel.
 
