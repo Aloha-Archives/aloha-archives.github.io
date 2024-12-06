@@ -121,7 +121,14 @@ Milestone 2 was managed using [Aloha Archives GitHub Project Board M2](https://g
 <img src="pics/m2.png">
 
 ## Milestone 3
+The main focus of Milestone 3 was to complete everything that was not done in Milestone 2 in order to reach our finished product.
+This milestone included uploading more sets of data into the database to be used on the website, more styling within the different pages of the website
+to be done, and adding the edit dataset page which allows admin users to manage the database from the website just to name a few tasks 
+completed in this milestone. Overall, this milestone focused on wrapping up any loose ends in order for there to be a finished version of 
+Aloha Archives for users to enjoy. This milestone is also when we shared our deployed application to people we through would use this website. After
+sharing what the team had worked on, we were fortunate enough to be provided with feedback from the test users that can be seen in our *Community Feedback* section.
 Milestone 3 was managed using [Aloha Archives GitHub Project Board M3](https://github.com/orgs/Aloha-Archives/projects/4):
+<img src="pics/m3.png">
 
 # Contact Us
 Aloha Archives is designed, maintained, and implemented by [JR Lee](https://jswlee.github.io/), [Jared Seto](https://jseto808.github.io/), [Shaelyn Loo](https://shaelyn-l.github.io/), [Kevin Clarkin](https://kevin-clarkin29.github.io/), and [Harry Mills](https://thingy18.github.io/harrymills.github.io/)
