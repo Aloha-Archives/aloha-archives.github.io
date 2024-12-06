@@ -78,9 +78,11 @@ Here are some suggestions we've gotten so far from community members who have us
     - Familiar - I have basic data skills. 
     - Somewhat Familiar - I have limited data skills.
     - Not Familiar - I have no experience.
+
 ### Person 2
 - It would be nice if there was a way to return to “all topics” from the Filters. Maybe a “Remove filters”. Or do you just have to click on “Datasets” again to pull up all topics? 
 -  On “About Us’ page, “Only after countless hours (and some head banging one the table)”
+
 ### Person 3
 -  I agree that a very brief description of what Aloha Archives is on the homepage might be helpful, something like “Aloha Archives provides access to State of Hawaii data to enhance open government, transparency, and accountability.” (I got this from your Terms of Use page. 🙂) 
 -  I did sign up, and it was easy to follow. I like the Recommended and Favorite drop down menus. I was going to say I wasn’t sure how to populate the Favorite section but saw the “Add to favorites” when I went back to view the datasets.
