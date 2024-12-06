@@ -127,6 +127,7 @@ to be done, and adding the edit dataset page which allows admin users to manage 
 completed in this milestone. Overall, this milestone focused on wrapping up any loose ends in order for there to be a finished version of 
 Aloha Archives for users to enjoy. This milestone is also when we shared our deployed application to people we through would use this website. After
 sharing what the team had worked on, we were fortunate enough to be provided with feedback from the test users that can be seen in our *Community Feedback* section.
+
 Milestone 3 was managed using [Aloha Archives GitHub Project Board M3](https://github.com/orgs/Aloha-Archives/projects/4):
 <img src="pics/m3.png">
 
