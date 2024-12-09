@@ -110,7 +110,6 @@ Selecting the variable itself is also confusing. Eg, not knowing what AGEP is as
 - Selecting Datasets in Navbar. Shows a “results not found” before loading the dataset cards.
 - Navbar Search Bar. Cut off slightly but functional
 
-
 # Developer Guide
 Developers who are interested in running our project locally must have Next.js and PostgreSQL installed. Our tech stack also uses ESLint, Typescript, Bootstrap 5, and React, with deployment via Vercel.
 
