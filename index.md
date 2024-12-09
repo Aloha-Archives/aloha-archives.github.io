@@ -90,6 +90,25 @@ Here are some suggestions we've gotten so far from community members who have us
 - For the Persona Quiz, would it be too much to have a “select all options that apply”?
 - This is a small thing, and there could be a very good reason why it isn’t done yet: spelling place names in ʻolelo Hawaiʻi (so Hawaiʻi instead of Hawaii). It could be a state style thing not to do it and use the English spelling, but you might think about using ʻolelo Hawaiʻi spelling and starting a new trend.
 
+### Person 4
+- Persona Quiz probably shouldn't be called that. Maybe "data profile" or something.
+quiz dropdowns are too constrained, need "Other" category. Prefer to interact question: each option is too similar at the end I got assigned Community Member but I was already a community member? Quiz "You are a Community Member" is odd result. Makes me feel like you're telling me what I am.
+- Tropical background image on every page is more like a vacation rental website than government portal. Needs to be more professional plain background.
+on /favorites, should probably not be "Delete" or trash can icon because we are not deleting the dataset, we are removing it from a favorites list. Suggest having it be consistent with the dataset detail page, with heart icon and "Remove from Favorites" title.
+- Favorite button probably doesn't need the big title "add to favorites". Can just be a heart button you toggle. The alt text should be "remove from favorites" or "add to favorites"
+- On the list view, the cards are pretty but can be hard to scan quickly. Perhaps a toggle to switch between cards/tiles and a list view?
+- On the dataset detail view, the radio buttons for Histogram/Scatterplot are squished together.
+- On other data portals I've used, there have been lots of options for formats to download. e.g. CSV, XLSX, JSON, etc.
+- On my profile page, it would be great to have a list of past datasets I've downloaded or recent datasets I visited.
+- On my profile page, the Choose Persona feels like a dead end. Perhaps provide a link or button to the Recommended datasets for this persona, and not just a "Retake Quiz" button.
+
+### Person 5
+
+- The scatter plot / Histogram. Commas in the years are atypical. For instance, it's not standard practice to write a year like 2,013. There doesn’t appear to be a space between the Histogram and the Scatterplot bubbles.
+- Selecting a variable for the graph under a dataset. Selecting a variable is confusing. Eg, graphing SEX for the United States Census Bureau doesn’t appear to make sense. Another example with the y-axis being confusing would be the Hawaii Housing Market Trends MedianHomePrice Histogram variable. It states frequency and gives a scale from 0 to 1, but how does a person have 0.1 of a house for instance?
+Selecting the variable itself is also confusing. Eg, not knowing what AGEP is as a variable to select for Census Bureau
+- Selecting Datasets in Navbar. Shows a “results not found” before loading the dataset cards.
+- Navbar Search Bar. Cut off slightly but functional
 
 
 # Developer Guide
